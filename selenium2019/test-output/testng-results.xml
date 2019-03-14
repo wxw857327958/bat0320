@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9045" started-at="2019-03-07T06:27:27Z" finished-at="2019-03-07T06:27:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9045" started-at="2019-03-07T06:27:27Z" finished-at="2019-03-07T06:27:36Z">
+      <class name="com.testcase.addgonggaotestcase">
+        <test-method status="PASS" signature="openchrome()[pri:0, instance:com.testcase.addgonggaotestcase@483bf400]" name="openchrome" is-config="true" duration-ms="2594" started-at="2019-03-07T14:27:27Z" finished-at="2019-03-07T14:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method status="PASS" signature="asclass()[pri:0, instance:com.testcase.addgonggaotestcase@483bf400]" name="asclass" duration-ms="6442" started-at="2019-03-07T14:27:30Z" finished-at="2019-03-07T14:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asclass -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcase.addgonggaotestcase@483bf400]" name="teardown" is-config="true" duration-ms="0" started-at="2019-03-07T14:27:36Z" finished-at="2019-03-07T14:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testcase.addgonggaotestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

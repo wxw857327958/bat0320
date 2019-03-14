@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.testcase.addclasstestcase">
+        <methods>
+          <include name="openchrome"/>
+          <include name="teardown"/>
+          <include name="asclass"/>
+        </methods>
+      </class> <!-- com.testcase.addclasstestcase -->
+      <class name="com.testcase.logintestcase4">
+        <methods>
+          <include name="openchrome"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.testcase.logintestcase4 -->
+      <class name="com.testcase.xinzengtestcase">
+        <methods>
+          <include name="openchrome"/>
+          <include name="teardown"/>
+          <include name="ti"/>
+        </methods>
+      </class> <!-- com.testcase.xinzengtestcase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
